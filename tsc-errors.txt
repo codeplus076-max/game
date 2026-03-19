@@ -1,0 +1,1 @@
+src/app/routes/HomePage.tsx(46,26): error TS2741: Property 'layout' is missing in type '{ upgrades: ActiveUpgrade[]; }' but required in type '{ upgrades: ActiveUpgrade[]; layout: BuildingInstance[]; }'.
